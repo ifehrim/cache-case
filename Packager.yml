@@ -1,0 +1,11 @@
+project:
+  name: Cache
+  type: package
+  ver: 1.0.0
+  desic: Cache case of packager
+  license: mit
+  namespace: Frame\Cache
+  mian: Cache
+  auther:
+    name: ifehrim
+    email: ifehrim@gmail.com
